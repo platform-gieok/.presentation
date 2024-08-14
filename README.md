@@ -1,2 +1,2 @@
 # .presentation
-2023 Electronic Engineering Graduate Competition - Faculty Dean's Award
+2023 Electronic Engineering Graduate Contest - Faculty Dean's Award
